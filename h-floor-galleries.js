@@ -1,5 +1,9 @@
 const galleries = {
 	  homegallery: [
+	  "https://wimg.rule34.xxx//images/5576/3175ac2c3b249598c86d79a8341709e6.gif?6347419",
+	  "https://hentaiporns.net/r/entradas/2024/07/c362df1b32f44c0bde264ab66b4541cd.gif",
+	  "https://astralpt.gamewiki.jp/wp-content/uploads/UT_Hero_Card_112_Max.png",
+	  "https://astralpt.gamewiki.jp/wp-content/uploads/UT_Hero_Card_112_02.png",
 	  "https://s3.truyen-hentai.com/67f6f11176943291553334.gif",
 	  "https://imagex1.sx.cdn.live/images/pinporn/2023/06/19/29584359.gif?width=460",
 	  "https://cdn2.hentaigifz.com/32948/handjob001.gif",
